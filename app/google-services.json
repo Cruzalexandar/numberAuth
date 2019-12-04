@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1028112739311",
+    "firebase_url": "https://travelmantics-d0588.firebaseio.com",
+    "project_id": "travelmantics-d0588",
+    "storage_bucket": "travelmantics-d0588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028112739311:android:afcb493d91a8ad8de4a41a",
+        "android_client_info": {
+          "package_name": "com.example.numberauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028112739311-n1pop6acmv4ltdkpkpanjfvena8r52bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvrM3rhG4_TE3m28G9DhduNVhHozhfobI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028112739311-n1pop6acmv4ltdkpkpanjfvena8r52bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028112739311:android:b4470d06b32c6715",
+        "android_client_info": {
+          "package_name": "com.example.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028112739311-fcco4u1g5sav040reuspo0hjeahvktul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelmantics",
+            "certificate_hash": "94afbe1a5c869e6c51a264274d6950d5f8e283c6"
+          }
+        },
+        {
+          "client_id": "1028112739311-n1pop6acmv4ltdkpkpanjfvena8r52bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvrM3rhG4_TE3m28G9DhduNVhHozhfobI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028112739311-n1pop6acmv4ltdkpkpanjfvena8r52bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
